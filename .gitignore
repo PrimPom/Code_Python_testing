@@ -1,3 +1,4 @@
 venv
 .idea/
 **/__pycache__/**
+tests_with_pytest_package/.pytest_cache/
